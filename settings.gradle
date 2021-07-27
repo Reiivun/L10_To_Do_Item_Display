@@ -1,0 +1,2 @@
+rootProject.name = "To Do Item Display"
+include ':app'
